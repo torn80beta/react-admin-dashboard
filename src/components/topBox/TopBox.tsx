@@ -11,7 +11,7 @@ const TopBox = () => {
             <div className="user">
               <img src={user.img} alt="" />
               <div className="userTexts">
-                <span className="userName">{user.username}</span>
+                <span className="username">{user.username}</span>
                 <span className="email">{user.email}</span>
               </div>
             </div>
